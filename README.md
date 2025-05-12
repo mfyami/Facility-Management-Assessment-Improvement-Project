@@ -83,6 +83,8 @@ This project presents a comprehensive facility assessment and improvement plan f
 ## 👨‍💼 Contributor
 
 - **Mohammed Alyami** – Facility audit, systems analysis, improvement planning, and documentation
+- **Faisal Abuajmah** – Facility overview and general scope definition
+
 
 Project completed under the course **Facilities Management (EM348)** supervised by **Dr. Rakan Albalawi**.
 
